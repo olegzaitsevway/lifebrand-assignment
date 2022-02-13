@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lifebrand-assignment/static/css/main.80ee3e69.css",
+    "main.js": "/lifebrand-assignment/static/js/main.b3943e86.js",
+    "static/js/787.395b2c0b.chunk.js": "/lifebrand-assignment/static/js/787.395b2c0b.chunk.js",
+    "index.html": "/lifebrand-assignment/index.html",
+    "main.80ee3e69.css.map": "/lifebrand-assignment/static/css/main.80ee3e69.css.map",
+    "main.b3943e86.js.map": "/lifebrand-assignment/static/js/main.b3943e86.js.map",
+    "787.395b2c0b.chunk.js.map": "/lifebrand-assignment/static/js/787.395b2c0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80ee3e69.css",
+    "static/js/main.b3943e86.js"
+  ]
+}
